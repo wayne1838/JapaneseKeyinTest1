@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\JapaneseKeyinTest\JapaneseKeyinTest\bin\Debug\JapaneseKeyinTest.exe.config
+C:\Users\admin\source\repos\JapaneseKeyinTest\JapaneseKeyinTest\bin\Debug\JapaneseKeyinTest.exe
+C:\Users\admin\source\repos\JapaneseKeyinTest\JapaneseKeyinTest\bin\Debug\JapaneseKeyinTest.pdb
+C:\Users\admin\source\repos\JapaneseKeyinTest\JapaneseKeyinTest\obj\Debug\JapaneseKeyinTest.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\JapaneseKeyinTest\JapaneseKeyinTest\obj\Debug\MainWindow.g.cs
+C:\Users\admin\source\repos\JapaneseKeyinTest\JapaneseKeyinTest\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\JapaneseKeyinTest\JapaneseKeyinTest\obj\Debug\JapaneseKeyinTest_MarkupCompile.cache
+C:\Users\admin\source\repos\JapaneseKeyinTest\JapaneseKeyinTest\obj\Debug\JapaneseKeyinTest_MarkupCompile.lref
+C:\Users\admin\source\repos\JapaneseKeyinTest\JapaneseKeyinTest\obj\Debug\MainWindow.baml
+C:\Users\admin\source\repos\JapaneseKeyinTest\JapaneseKeyinTest\obj\Debug\JapaneseKeyinTest.g.resources
+C:\Users\admin\source\repos\JapaneseKeyinTest\JapaneseKeyinTest\obj\Debug\JapaneseKeyinTest.Properties.Resources.resources
+C:\Users\admin\source\repos\JapaneseKeyinTest\JapaneseKeyinTest\obj\Debug\JapaneseKeyinTest.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\JapaneseKeyinTest\JapaneseKeyinTest\obj\Debug\JapaneseKeyinTest.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\JapaneseKeyinTest\JapaneseKeyinTest\obj\Debug\JapaneseKeyinTest.exe
+C:\Users\admin\source\repos\JapaneseKeyinTest\JapaneseKeyinTest\obj\Debug\JapaneseKeyinTest.pdb
