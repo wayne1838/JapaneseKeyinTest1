@@ -21,9 +21,8 @@ namespace JapaneseKeyinTest
     public partial class MainWindow : Window
     {
         int testIndex = 1;
-        List<ItemCollection> list; 
+        List<ItemCollection> list;
         Random rng = new Random();
-        bool isWrong = false;
         public MainWindow()
         {
 
@@ -40,26 +39,26 @@ namespace JapaneseKeyinTest
             if (KeyBlock.Text.Length >= list[testIndex].Spell.Length
                 || e.Key == Key.Return || e.Key == Key.Space)
             {
-                if (isWrong) {
-                    KeyBlock.Text = "";
-                    isWrong = false;
-                }
-                else if (KeyBlock.Text == list[testIndex].Spell || KeyBlock.Text == list[testIndex].Name)
+                if (KeyBlock.Text == list[testIndex].Spell || KeyBlock.Text == list[testIndex].Name)
                 {
+
+                    lblAnswer.Content = "";
                     KeyBlock.Text = "";
                     GetNext();
                 }
-                else {
+                else
+                {
                     //錯誤
-                    KeyBlock.Text = list[testIndex].Spell;
-                    isWrong = true;
+                    KeyBlock.Text = "";
+                    lblAnswer.Content = list[testIndex].Spell;
+                    ListWrong.Items.Add(list[testIndex].Name + ": " + list[testIndex].Spell);
 
                 }
             }
         }
         private void GetNext()
         {
-           
+
             testIndex = rng.Next(1, list.Count());
             lblWord.Content = list[testIndex].Name;
 
